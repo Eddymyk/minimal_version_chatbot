@@ -1,0 +1,9 @@
+streamlit
+requests
+python-dotenv
+fastapi
+uvicorn[standard]
+python-jose[cryptography]
+passlib[bcrypt]
+pymongo
+google-generativeai
